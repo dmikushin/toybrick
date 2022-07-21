@@ -40,13 +40,11 @@ ssh toybrick@10.42.0.141
 
 * Dependencies of `librknn_runtime.so`:
 
-```
-/lib/aarch64-linux-gnu/libOpenVX.so.1.2
-/lib/aarch64-linux-gnu/libVSC.so (0x0000007f7abdd000)
-/lib/aarch64-linux-gnu/libGAL.so (0x0000007f7aa44000)
-/lib/aarch64-linux-gnu/libArchModelSw.so (0x0000007f7a9fe000)
-/lib/aarch64-linux-gnu/libNNArchPerf.so (0x0000007f7a9bb000)
-```
+- `libOpenVX`
+- `libVSC`
+- `libGAL` NXP Vivante `gal_core` GPU support library
+- `libArchModelSw`
+- `libNNArchPerf`
 
 ## Issues
 
