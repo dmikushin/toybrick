@@ -21,7 +21,7 @@ Login to Toybrick using ADB:
 adb shell
 ```
 
-Flush hard-assigned default API:
+Flush hard-assigned default IP:
 
 ```
 ifconfig usb0 0.0.0.0 0.0.0.0 && dhclient
