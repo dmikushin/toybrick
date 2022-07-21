@@ -52,3 +52,9 @@ ssh toybrick@10.42.0.141
 
 * Internet still does not work on the toybrick, perhaps due to some wrong setting
 * Somehow, not all packages are present for Debian, for example `rk-tee-service` is only present in the [Fedora repo](https://repo.rock-chips.com/fedora/rk1808/aarch64/)
+
+## Resources
+
+1. [TB-RK1808M0 Specification](https://t.rock-chips.com/en/wiki.php?filename=Board_Guide/TB-RK1808M0)
+2. [TB-RK1808M0 Programming Getting Started Guide](https://t.rock-chips.com/en/wiki.php?filename=Board_Guide/TB-RK1808S0) (actually, for TB-RK1808S0)
+
